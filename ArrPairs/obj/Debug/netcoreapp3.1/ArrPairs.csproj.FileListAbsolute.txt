@@ -1,0 +1,13 @@
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.exe
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.deps.json
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.runtimeconfig.json
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.runtimeconfig.dev.json
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.dll
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\bin\Debug\netcoreapp3.1\ArrPairs.pdb
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.csprojAssemblyReference.cache
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.csproj.CoreCompileInputs.cache
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.AssemblyInfoInputs.cache
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.AssemblyInfo.cs
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.dll
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.pdb
+C:\Users\petrusm\source\repos\ArrPairs\ArrPairs\obj\Debug\netcoreapp3.1\ArrPairs.genruntimeconfig.cache
